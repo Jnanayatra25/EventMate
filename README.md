@@ -2,6 +2,10 @@
 
 EventMate adalah aplikasi Android untuk membantu pengguna menemukan, mengikuti, dan mengelola berbagai event berdasarkan kategori, waktu, dan lokasi.
 
+##Version
+
+v1.0.0
+
 ## Features
 
 * Login & Register
